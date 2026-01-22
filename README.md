@@ -28,8 +28,8 @@ Contact page with café information.
 <img src="https://github.com/USERNAME.png" width="150" style="border-radius:50%;" />
 
 
-**Name:** Your Full Name  
-**Email:** your.email@example.com
+**Name:** Karylle Aquino 
+**Email:** 202380360@psu.palawan.edu.ph
 
 
 <a href="https://www.facebook.com/karylle.aquino.921">

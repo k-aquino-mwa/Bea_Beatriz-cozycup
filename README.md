@@ -25,7 +25,7 @@ Contact page with café information.
 
 
 "About the Authors"
-<img src="https://github.com/USERNAME.png" width="150" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/u/206088937?v=4" width="150" style="border-radius:50%;" />
 
 
 **Name:** Karylle Aquino 

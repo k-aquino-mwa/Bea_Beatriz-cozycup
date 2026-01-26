@@ -37,7 +37,8 @@ Contact page with café information.
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/k-aquino-mwa">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30"> 
+  </a>
 
 "About the Authors"
 <img src="https://avatars.githubusercontent.com/u/245654685?v=4" width="150" style="border-radius:50%;" />

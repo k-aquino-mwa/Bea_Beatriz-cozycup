@@ -39,7 +39,8 @@ Contact page with café information.
 <a href="https://github.com/k-aquino-mwa">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30">
 
-<img src="https://avatars.githubusercontent.com/u/245654685?s=40&v=4" width="150" style="border-radius:50%;" />
+"About the Authors"
+<img src="https://avatars.githubusercontent.com/u/245654685?v=4" width="150" style="border-radius:50%;" />
 
 **Name:** Bea Beatriz Cervancia
 **Email:** 202080454@psu.palawan.edu.ph

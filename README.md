@@ -11,7 +11,7 @@
 
 ## Screen Captures
 
-![Home Page](Screen_captures/home(1).png)
+![Home Page](Screen_captures/home (1).png)
 Home page of Cozy Cup Cafe.
 
 ![Menu Page](Screen_captures/menu.png)

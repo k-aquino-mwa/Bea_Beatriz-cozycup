@@ -1,30 +1,30 @@
-# Cozy Cup Cafe
+# 🌸Cozy Cup Cafe🌸
 
-## Project Description
+## 🌸Project Description🌸
 "Cozy Cup Cafe is a website you browse your favorite coffee and will give cozy experience for the customer"
 
-## Features
+## 🌸Features🌸
 - Beginner-friendly project
 - Menu display for drinks and food items
 - Cozy café-themed design
 - User-friendly navigation buttons
 
-## Screen Captures
+## 🌸Screen Captures🌸
 
-![Home Page](Screen_captures/home (1).png)
+![Home Page](img/Home.png)
 Home page of Cozy Cup Cafe.
 
-![Menu Page](Screen_captures/menu.png)
+![Menu Page](img/menu.png)
 Menu page showing available items.
 
-![Order Section](Screen_captures/checkout.png)
+![Order Section](img/order.png)
 Order section for selecting items.
 
-![Contact Page](Screen_captures/contact-us.png)
+![Contact Page](img/contact.png)
 Contact page with café information.
 
 
-## About the Authors
+## 🌸About the Authors🌸
 <img src="https://avatars.githubusercontent.com/u/206088937?v=4" width="150" style="border-radius:50%;" />
 
 
@@ -40,7 +40,7 @@ Contact page with café information.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30"> 
   </a>
 
-## About the Authors
+
 <img src="https://avatars.githubusercontent.com/u/245654685?v=4" width="150" style="border-radius:50%;" />
 
 **Name:** Bea Beatriz Cervancia

@@ -11,16 +11,16 @@
 
 ## Screen Captures
 
-![Home Page](screenshots/home(1).png)
+![Home Page](Screen_captures/home(1).png)
 Home page of Cozy Cup Cafe.
 
-![Menu Page](screenshots/menu.png)
+![Menu Page](Screen_captures/menu.png)
 Menu page showing available items.
 
-![Order Section](screenshots/checkout.png)
+![Order Section](Screen_captures/checkout.png)
 Order section for selecting items.
 
-![Contact Page](screenshots/contact-us.png)
+![Contact Page](Screen_captures/contact-us.png)
 Contact page with café information.
 
 
